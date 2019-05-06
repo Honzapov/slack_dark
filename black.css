@@ -2,9 +2,9 @@ body { background: #222; color: #e6e6e6; }
 
 a { color: #009d24; }
 
-a:link, a:visited { color: #004a65; }
+a:link, a:visited { color: #ffffff; text-decoration: underline; }
 
-a:hover, a:active, a:focus { color: #006718; }
+a:hover, a:active, a:focus { color: #e3e3e3; text-decoration: none; }
 
 hr { border-bottom: 1px solid #424242; border-top: 1px solid #222; }
 
